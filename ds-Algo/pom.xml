@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>TowerOfHanoi-Puzzle-Recursion</module>
+  	<module>SortedArrayCheck-Recursion</module>
   </modules>
   
   <build>
