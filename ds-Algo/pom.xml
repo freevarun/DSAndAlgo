@@ -7,6 +7,7 @@
   <modules>
   	<module>TowerOfHanoi-Puzzle-Recursion</module>
   	<module>SortedArrayCheck-Recursion</module>
+  	<module>PossibleBinaryStrings-Recursion</module>
   </modules>
   
   <build>
