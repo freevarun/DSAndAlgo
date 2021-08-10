@@ -8,6 +8,7 @@
   	<module>TowerOfHanoi-Puzzle-Recursion</module>
   	<module>SortedArrayCheck-Recursion</module>
   	<module>PossibleBinaryStrings-Recursion</module>
+  	<module>Connected-Cell-DFS</module>
   </modules>
   
   <build>
